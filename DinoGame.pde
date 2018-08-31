@@ -61,7 +61,7 @@ void setup() {
   bird = loadImage("berd.png");
   bird1 = loadImage("berd2.png");
 
-  pop = new Population(750); //<<number of dinosaurs in each generation
+  pop = new Population(700); //<<number of dinosaurs in each generation
 }  //optimizing the processing speed without making it crash
 //--------------------------------------------------------------------------------------------------------------------------------------------------------
 void draw() {
